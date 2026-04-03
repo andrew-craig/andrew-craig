@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Chalk - a super simple, environment-agnostic task manager for agents
+Locog - a log aggregator for local projects (e.g. Raspberry Pi)
+
+
+
 <!--
 **andrew-craig/andrew-craig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
