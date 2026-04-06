@@ -11,6 +11,9 @@
 🦉 [bird-listener](https://github.com/andrew-craig/bird-listener) - a stripped down adaptation of [BirdNetAnalyzer](https://github.com/birdnet-team/BirdNET-Analyzer) able to run classification on low power devices   
 ⛈️ [weather-station](https://github.com/andrew-craig/weather-station) - a home weather station to run on a Raspberry Pi   
 🫍 [orcas](https://github.com/andrew-craig/orcas-desktop) - a prototype AI harness for knowledge work that experiments with context management   
+🔈 [pi-noise-machine](https://github.com/andrew-craig/rpi-timelapse) - turn a Raspberry Pi into a noice machine   
+📸 [rpi-timelapse](https://github.com/andrew-craig/rpi-timelapse) - use a Raspberry Pi to capture a timelapse using a Canon camera   
+
 
 ### Me
 
